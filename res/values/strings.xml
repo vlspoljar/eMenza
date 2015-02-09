@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eMenza</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_open_map">Mapa</string>
+    <string name="btn_settings">Postavke</string>
+    <string name="btn_menza_login">Menza login</string>
+    <string name="img_logo_desc">Logo image</string>
+    <string name="btn_cancel">Cancel</string>
+    
+    <string name="opt_map_refresh">Osvježi mapu</string>
+	<string name="opt_map_settings">Postavke</string>
+	<string name="preference_map_settings">Postavke mape</string>
+	<string name="cbp_show_location">Prikaži moju lokaciju</string>
+	<string name="cbp_show_location_summary">Ukoliko je uključeno, na mapi će se prikazati trenutna lokacija korisnika.</string>
+	<string name="swc_use_gps">Koristiti GPS ?</string>
+	<string name="swc_use_gps_summ">Za dohvaćanje lokacije koristit će se GPS</string>
+	<string name="preferences_location_settings">POSTAVKE LOKACIJE</string>
+	
+	<string name="alert_gps_title">GPS</string>
+	<string name="turn_on_gps">Uključiti GPS?</string>
+	<string name="turn_gps_yes">Da</string>
+	<string name="turn_gps_no">Ne</string>
+	<string name="opt_najbliza_menza_title">Prikaži najbližu menzu</string>
+	<string name="title_list_item">Menza</string>
+	<string name="adress_list_item">Adresa</string>
+	<string name="udaljenostdo_list_item">Udaljenost do</string>
+	<string name="opt_menza_info">Info o menzama</string>
+	<color name="header_color">#3BCEFF</color>
+	<color name="expandable_header_color">#f44</color>
+	<color name="white_text">#fff</color>
+	<string name="txt_stanje">STANJE NA X-ICI:</string>
+	<string name="txt_broj_iskaznice">Broj Vaše X-ice:</string>
+	<string name="btn_stanjeXica">Stanje na X-ici</string>
+	<string name="btn_provjeriStanjeXice">Provjeri stanje X-ice</string>
+	<color name="red_balance">#E30000</color>
+	<color name="green_balance">#00E344</color>
+	<string name="chk_zapamtiBrojXiceTitle">Zapamti me</string>
+	<string name="edit_xica_hint">&quot; xx xxxxxxxxxx x&quot;</string>
+	<string name="txt_predbroj">601983</string>
+
+</resources>

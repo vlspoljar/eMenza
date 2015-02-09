@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/preference_map_settings">
+    <PreferenceCategory android:title="@string/preferences_location_settings">
+        <CheckBoxPreference android:title="@string/cbp_show_location" android:summary="@string/cbp_show_location_summary" android:key="chkShowMyLocation" android:defaultValue="false"/>
+        <SwitchPreference android:dependency="chkShowMyLocation" android:key="swcUseGPS" android:title="@string/swc_use_gps" android:summary="@string/swc_use_gps_summ" android:defaultValue="false"/>
+    </PreferenceCategory>
+    
+
+</PreferenceScreen>

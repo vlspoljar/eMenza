@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/opt_map_refresh" android:title="@string/opt_map_refresh"></item>
+    
+    <item android:id="@+id/opt_menza_info" android:title="@string/opt_menza_info"></item><item android:id="@+id/opt_najbliza_menza" android:title="@string/opt_najbliza_menza_title"></item>
+    <item android:id="@+id/opt_map_settings" android:title="@string/opt_map_settings"></item>
+
+</menu>
